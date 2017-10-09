@@ -55,4 +55,11 @@ Boleto, Cartõa e Transferência, à Vista.
 
 Chama no email ou Telegram.
 
+### Não posso Participar!
+
+Seja qual for o motivo, se quiser participar mas tiver interesse no conteúdo, você tem duas opções:
+
+- Acesso somente as gravações, mas só serão vendidas até antes do Evento.
+- Aulas sobre o tema, que irão rolar (de forma mais resumida), no CODECASTS. Não há previsão correta para as aulas do tema. Mas o Workshop vai ser a base pra gerar as ideias.
+
 ### Obrigado!
