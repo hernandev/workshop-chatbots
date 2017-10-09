@@ -8,8 +8,8 @@ Nesse workshop, vamos votar e construir de maneira colaborativa um ChatBot para 
 
 O Objetivo do Bot vai ser definido pelos participantes. Mas em termos gerais:
 
-- Configuraçõa do Projeto e Estrutura Básica.
-- Configuraçõa da Comunicação com a Plataforma Social e o Bot.
+- Configuração do Projeto e Estrutura Básica.
+- Configuração da Comunicação com a Plataforma Social e o Bot.
 - Respostas Básicas para Comandos.
 - Respostas e Conversas Beseadas em Expressões Regulares.
 - Uso de Intenções e Processamento de Linguagem Natural (NLP) com o [https://wit.ai/](https://wit.ai/).
@@ -29,11 +29,11 @@ Quinta (12/10/2017) e Sexta (13/10/2017), de 20h às 23h. (Total 6 horas).
 
 ### Vou ter Suporte?
 
-Claro, vamos usar um repositório privado em que os participantes vão podemos colaborar no projeto de demonstraçõa e tirar dúvidas pós Workshop nas Issues.
+Claro, vamos usar um repositório privado em que os participantes vão podemos colaborar no projeto de demonstração e tirar dúvidas pós Workshop nas Issues.
 
 ### Quanto Custa?
 
-Custa R$ 80,00. Sõa Poucas Vagas, pra que tudo seja fluido, sem multidões.
+Custa R$ 80,00. São Poucas as Vagas, pra que tudo seja fluido, sem multidões.
 
 ### Código Fonte e Gravações.
 
@@ -49,7 +49,7 @@ Manda issue nesse repo.
 Chama no @hernandev do Telegram ou no Email: diego@hernandev.com
 
 ### Quais formas de Pagamento?
-Boleto, Cartõa e Transferência, à Vista.
+Boleto, Cartão e Transferência, à Vista.
 
 ### Quero Desconto
 
@@ -57,7 +57,7 @@ Chama no email ou Telegram.
 
 ### Não posso Participar!
 
-Seja qual for o motivo, se quiser participar mas tiver interesse no conteúdo, você tem duas opções:
+Seja qual for o motivo, se quiser participar, mas tiver interesse no conteúdo, você tem duas opções:
 
 - Acesso somente as gravações, mas só serão vendidas até antes do Evento.
 - Aulas sobre o tema, que irão rolar (de forma mais resumida), no CODECASTS. Não há previsão correta para as aulas do tema. Mas o Workshop vai ser a base pra gerar as ideias.
