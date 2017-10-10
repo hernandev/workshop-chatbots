@@ -16,7 +16,7 @@ O Objetivo do Bot vai ser definido pelos participantes. Mas em termos gerais:
 - Restrições de Uso em Cada Plataforma.
 - Uso de Templates para conteúdo Interativo. Ex.: Menus, Listas de Seleção, Envio e Recebimento de Mídias (Fotos, Vídeos, Anexos)
 - Uso de ChatBots para notificações transacionais (algumas plataformas tem restrições).
-- Gerenciamento de Autenticaçõa de Usuários de um Sistema VS perfis nas redes sociais (Assegurar a identidade de um usuário do Chat)
+- Gerenciamento de Autenticação de Usuários de um Sistema VS perfis nas redes sociais (Assegurar a identidade de um usuário do Chat)
 - Sugestões?? Manda PR
 
 ### Onde?
@@ -29,7 +29,7 @@ Quinta (12/10/2017) e Sexta (13/10/2017), de 20h às 23h. (Total 6 horas).
 
 ### Vou ter Suporte?
 
-Claro, vamos usar um repositório privado em que os participantes vão podemos colaborar no projeto de demonstração e tirar dúvidas pós Workshop nas Issues.
+Claro, vamos usar um repositório privado em que os participantes vão poder colaborar no projeto de demonstração e tirar dúvidas pós Workshop nas Issues.
 
 ### Quanto Custa?
 
