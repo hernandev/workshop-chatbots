@@ -25,7 +25,7 @@ Via Hangouts, Online, com gravações disponíveis logo após.
 
 ### Quando?
 
-Quinta (12/10/2017) e Sexta (13/10/2017), de 20h às 23h. (Total 6 horas).
+Sábado (14/10/2017) e Domingo (15/10/2017), de 14:00h às 17:30h (Total 7 horas).
 
 ### Vou ter Suporte?
 
